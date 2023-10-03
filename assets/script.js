@@ -2,8 +2,8 @@
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "PINCH"
-let currentWordleNumber = 289 //<---------Change wordle number here
+let wordAsString = "BLINK"
+let currentWordleNumber = 290 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
