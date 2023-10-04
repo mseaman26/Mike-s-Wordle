@@ -2,8 +2,8 @@
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "BLINK"
-let currentWordleNumber = 290 //<---------Change wordle number here
+let wordAsString = "VOICE"
+let currentWordleNumber = 291 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
