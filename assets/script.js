@@ -2,8 +2,8 @@
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "TOPIC"
-let currentWordleNumber = 292 //<---------Change wordle number here
+let wordAsString = "CHOIR"
+let currentWordleNumber = 293 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
