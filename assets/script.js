@@ -1,9 +1,9 @@
-// $(document).ready(function(){
+$(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "WHORE"
-let currentWordleNumber = 299 //<---------Change wordle number here
+let wordAsString = "WAGER"
+let currentWordleNumber = 298 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
@@ -395,4 +395,4 @@ MakeBottomRowOfKeyboard()
 loadGuess()
 
 
-// })
+})
