@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ATTIC"
-let currentWordleNumber = 339 //<---------Change wordle number here
+let wordAsString = "ENDOW"
+let currentWordleNumber = 340 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
