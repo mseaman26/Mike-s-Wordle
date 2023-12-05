@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "NEVER"
-let currentWordleNumber = 350 //<---------Change wordle number here
+let wordAsString = "HONEY"
+let currentWordleNumber = 351 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
