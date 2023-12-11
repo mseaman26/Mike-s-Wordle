@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "LAYER"
-let currentWordleNumber = 356 //<---------Change wordle number here
+let wordAsString = "SLUMP"
+let currentWordleNumber = 357 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
