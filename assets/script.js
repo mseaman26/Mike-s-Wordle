@@ -3,7 +3,7 @@ $(document).ready(function(){
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
 let wordAsString = "FINAL"
-let currentWordleNumber = 360 //<---------Change wordle number here
+let currentWordleNumber = 362 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
