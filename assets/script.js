@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "AFTER"
-let currentWordleNumber = 370 //<---------Change wordle number here
+let wordAsString = "DEATH"
+let currentWordleNumber = 371 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
