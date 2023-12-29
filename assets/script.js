@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "NINJA"
-let currentWordleNumber = 374 //<---------Change wordle number here
+let wordAsString = "WORTH"
+let currentWordleNumber = 375 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
