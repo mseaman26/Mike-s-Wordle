@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ALONE"
-let currentWordleNumber = 381 //<---------Change wordle number here
+let wordAsString = "QUIET"
+let currentWordleNumber = 382 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
