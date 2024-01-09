@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "WASTE"
-let currentWordleNumber = 384 //<---------Change wordle number here
+let wordAsString = "PHASE"
+let currentWordleNumber = 385 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
