@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "OFTEN"
-let currentWordleNumber = 404 //<---------Change wordle number here
+let wordAsString = "VIDEO"
+let currentWordleNumber = 405 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
