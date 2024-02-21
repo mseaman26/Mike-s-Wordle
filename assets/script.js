@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "EXUDE"
-let currentWordleNumber = 419 //<---------Change wordle number here
+let wordAsString = "RIGID"
+let currentWordleNumber = 420 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
@@ -28,7 +28,7 @@ if(currentWordleNumber != oldWordleNumber){
 }
 
 let topHeader = document.getElementById("top-header")
-topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber
+topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber+" blaze it lol"
 
 let shareButton = document.createElement("button")
 shareButton.setAttribute("id", "share-button")
