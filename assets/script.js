@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "RIGID"
-let currentWordleNumber = 420 //<---------Change wordle number here
+let wordAsString = "TOAST"
+let currentWordleNumber = 421 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
@@ -47,7 +47,7 @@ const orangeTile = "🟨"
 const whiteTile = "⬜"
     
 function makeTilesForSharing(){
-    let tilesString = "Mike's Wordle #"+currentWordleNumber+" blaze it lol\n"
+    let tilesString = "Mike's Wordle #"+currentWordleNumber+"\n"
     let count =0
     for(let i = 0; i < 30; i++){
         count += 1
@@ -121,7 +121,7 @@ function MakeBottomRowOfKeyboard(){
 function checkForValidGuess(){
     let wordString = currentUserWord.join("")
     if(possibleWordGuessesArray.includes(wordString)){
-        topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber+" blaze it lol"
+        topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber
         return true
     }else {
         topHeader.textContent = "Not a Valid Guess"
@@ -236,7 +236,7 @@ function buttonsClicked (e){
     }
     //delete button
     if(buttonClicked.innerHTML == "DEL"){
-        topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber+" blaze it lol"
+        topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber
         if(currentUserWord.length == 0){
             return
         }
@@ -344,7 +344,7 @@ document.getElementById("keyboard-container").addEventListener("click", buttonsC
 function keyboardLetterPress(e){
     let keyPressed = event.key.toUpperCase()
     if(keyPressed == "BACKSPACE"){
-        topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber+" blaze it lol"
+        topHeader.textContent = "Mike's Wordle! #"+currentWordleNumber
         if(currentUserWord.length == 0){
             return
         }
