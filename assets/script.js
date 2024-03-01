@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ELITE"
-let currentWordleNumber = 427 //<---------Change wordle number here
+let wordAsString = "BELOW"
+let currentWordleNumber = 428 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
