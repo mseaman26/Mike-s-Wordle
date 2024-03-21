@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "BASIL"
-let currentWordleNumber = 440 //<---------Change wordle number here
+let wordAsString = "GREAT"
+let currentWordleNumber = 441 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
