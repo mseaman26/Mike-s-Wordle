@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SHOVE"
-let currentWordleNumber = 444 //<---------Change wordle number here
+let wordAsString = "HUMAN"
+let currentWordleNumber = 445 //<---------Change wordle number here
 
 
 if (usedWords.includes(wordAsString)){
