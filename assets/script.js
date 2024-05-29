@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "GRASP"
-let currentWordleNumber = 494 //<---------Change wordle number here!
+let wordAsString = "OLIVE"
+let currentWordleNumber = 495 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
