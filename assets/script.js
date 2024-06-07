@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "DRIVE"
-let currentWordleNumber = 502 //<---------Change wordle number here!
+let wordAsString = "IRONY"
+let currentWordleNumber = 503 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
