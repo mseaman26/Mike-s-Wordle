@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "FLUNK"
-let currentWordleNumber = 505 //<---------Change wordle number here!
+let wordAsString = "PLUME"
+let currentWordleNumber = 506 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
