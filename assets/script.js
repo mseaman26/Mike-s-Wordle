@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "RIDGE"
-let currentWordleNumber = 523 //<---------Change wordle number here!
+let wordAsString = "POINT"
+let currentWordleNumber = 524 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
