@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "LEVEL"
-let currentWordleNumber = 526 //<---------Change wordle number here!
+let wordAsString = "BANJO"
+let currentWordleNumber = 527 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
