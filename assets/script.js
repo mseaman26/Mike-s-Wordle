@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "MAYOR"
-let currentWordleNumber = 533 //<---------Change wordle number here!
+let wordAsString = "WHOLE"
+let currentWordleNumber = 534 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
