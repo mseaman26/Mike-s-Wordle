@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "MURAL"
-let currentWordleNumber = 535 //<---------Change wordle number here!
+let wordAsString = "AFOUL"
+let currentWordleNumber = 536 //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
