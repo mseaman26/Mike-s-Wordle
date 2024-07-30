@@ -2,8 +2,9 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "NASAL"
-let currentWordleNumber = 542 //<---------Change wordle number here!
+let wordAsString = "HORNY"
+let currentWordleNumber = 543
+ //<---------Change wordle number here!
 
 
 if (usedWords.includes(wordAsString)){
