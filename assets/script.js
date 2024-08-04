@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "FLOUR"
-let currentWordleNumber = 546
+let wordAsString = "LEARN"
+let currentWordleNumber = 547
  //<---------Change wordle number here!
 
 
