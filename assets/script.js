@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SPINE"
-let currentWordleNumber = 552
+let wordAsString = "PORCH"
+let currentWordleNumber = 553
  //<---------Change wordle number here!
 
 
