@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SWANK"
-let currentWordleNumber = 555
+let wordAsString = "LOCAL"
+let currentWordleNumber = 556
  //<---------Change wordle number here!
 
 
