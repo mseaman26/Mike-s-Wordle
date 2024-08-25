@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "CLOWN"
-let currentWordleNumber = 557
+let wordAsString = "EBONY"
+let currentWordleNumber = 558
  //<---------Change wordle number here!
 
 
