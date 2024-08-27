@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "EBONY"
-let currentWordleNumber = 558
+let wordAsString = "COVER"
+let currentWordleNumber = 559
  //<---------Change wordle number here!
 
 
