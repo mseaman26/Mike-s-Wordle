@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "PIANO"
-let currentWordleNumber = 561
+let wordAsString = "PUREE"
+let currentWordleNumber = 562
  //<---------Change wordle number here!
 
 
