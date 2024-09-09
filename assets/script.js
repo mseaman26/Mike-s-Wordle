@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "CLEAN"
+let wordAsString = "MONTH"
 let currentWordleNumber = 565
  //<---------Change wordle number here!
 
