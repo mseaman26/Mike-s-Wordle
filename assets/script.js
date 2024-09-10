@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "MONTH"
-let currentWordleNumber = 565
+let wordAsString = "RERUN"
+let currentWordleNumber = 567
  //<---------Change wordle number here!
 
 
