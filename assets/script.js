@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "RERUN"
-let currentWordleNumber = 567
+let wordAsString = "BLAME"
+let currentWordleNumber = 568
  //<---------Change wordle number here!
 
 
