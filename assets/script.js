@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "BLAME"
-let currentWordleNumber = 568
+let wordAsString = "NAKED"
+let currentWordleNumber = 569
  //<---------Change wordle number here!
 
 
