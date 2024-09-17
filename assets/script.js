@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ALLOY"
-let currentWordleNumber = 570
+let wordAsString = "FLOOD"
+let currentWordleNumber = 571
  //<---------Change wordle number here!
 
 
