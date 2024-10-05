@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "COLOR"
-let currentWordleNumber = 582
+let wordAsString = "VULVA"
+let currentWordleNumber = 583
  //<---------Change wordle number here!
 
 
