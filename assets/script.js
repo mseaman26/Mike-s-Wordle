@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "AGISM"
-let currentWordleNumber = 584
+let wordAsString = "UNDUE"
+let currentWordleNumber = 585
  //<---------Change wordle number here!
 
 
