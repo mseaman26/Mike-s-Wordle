@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "UNDUE"
-let currentWordleNumber = 585
+let wordAsString = "WHILE"
+let currentWordleNumber = 586
  //<---------Change wordle number here!
 
 
