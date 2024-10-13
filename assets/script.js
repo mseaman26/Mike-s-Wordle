@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "COMIC"
-let currentWordleNumber = 587
+let wordAsString = "BEACH"
+let currentWordleNumber = 588
  //<---------Change wordle number here!
 
 
