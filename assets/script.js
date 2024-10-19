@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SUPER"
-let currentWordleNumber = 592
+let wordAsString = "SNEAK"
+let currentWordleNumber = 593
  //<---------Change wordle number here!
 
 
