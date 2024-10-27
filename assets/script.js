@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "OASIS"
-let currentWordleNumber = 598
+let wordAsString = "TRUST"
+let currentWordleNumber = 599
  //<---------Change wordle number here!
 
 
