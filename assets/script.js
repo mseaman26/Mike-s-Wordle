@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "TRUST"
-let currentWordleNumber = 599
+let wordAsString = "ORBIT"
+let currentWordleNumber = 600
  //<---------Change wordle number here!
 
 
