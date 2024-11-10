@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "FOGGY"
-let currentWordleNumber = 605
+let wordAsString = "MAJOR"
+let currentWordleNumber = 606
  //<---------Change wordle number here!
 
 
