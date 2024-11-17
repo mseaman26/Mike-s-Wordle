@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "QUOTE"
-let currentWordleNumber = 610
+let wordAsString = "BELCH"
+let currentWordleNumber = 611
  //<---------Change wordle number here!
 
 
