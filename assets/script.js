@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "BELCH"
-let currentWordleNumber = 611
+let wordAsString = "MANIA"
+let currentWordleNumber = 612
  //<---------Change wordle number here!
 
 
