@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "MANIA"
-let currentWordleNumber = 612
+let wordAsString = "TROOP"
+let currentWordleNumber = 613
  //<---------Change wordle number here!
 
 
