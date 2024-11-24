@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ABORT"
-let currentWordleNumber = 616
+let wordAsString = "CHIEF"
+let currentWordleNumber = 617
  //<---------Change wordle number here!
 
 
