@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "PRIOR"
-let currentWordleNumber = 618
+let wordAsString = "THUMB"
+let currentWordleNumber = 619
  //<---------Change wordle number here!
 
 
