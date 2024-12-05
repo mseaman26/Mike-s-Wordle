@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "RHYME"
-let currentWordleNumber = 622
+let wordAsString = "STIFF"
+let currentWordleNumber = 623
  //<---------Change wordle number here!
 
 
