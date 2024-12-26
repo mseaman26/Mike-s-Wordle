@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "BALMY"
-let currentWordleNumber = 631
+let wordAsString = "TREND"
+let currentWordleNumber = 632
  //<---------Change wordle number here!
 
 
