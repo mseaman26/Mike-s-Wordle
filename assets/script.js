@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "CHILD"
-let currentWordleNumber = 633
+let wordAsString = "CYBER"
+let currentWordleNumber = 634
  //<---------Change wordle number here!
 
 
