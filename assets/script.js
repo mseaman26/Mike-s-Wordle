@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SMELL"
-let currentWordleNumber = 635
+let wordAsString = "BIRTH"
+let currentWordleNumber = 636
  //<---------Change wordle number here!
 
 
