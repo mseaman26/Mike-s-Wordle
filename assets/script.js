@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "IMBUE"
-let currentWordleNumber = 638
+let wordAsString = "VOILA"
+let currentWordleNumber = 639
  //<---------Change wordle number here!
 
 
