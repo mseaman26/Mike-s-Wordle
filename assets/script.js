@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "VOILA"
-let currentWordleNumber = 639
+let wordAsString = "ALLOT"
+let currentWordleNumber = 640
  //<---------Change wordle number here!
 
 
