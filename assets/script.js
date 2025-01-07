@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ALLOT"
-let currentWordleNumber = 640
+let wordAsString = "AMONG"
+let currentWordleNumber = 641
  //<---------Change wordle number here!
 
 
