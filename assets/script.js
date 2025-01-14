@@ -7,9 +7,6 @@ let currentWordleNumber = 644
  //<---------Change wordle number here!
 
 
-if (usedWords.includes(wordAsString)){
-    console.log(`${wordAsString} has already been used!`)
-} else {console.log(`${wordAsString} has not been used!`)}
 let word = []
 word = wordAsString.split("")
   
