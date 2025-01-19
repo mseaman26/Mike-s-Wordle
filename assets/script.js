@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "HASTE";
-let currentWordleNumber = 645
+let wordAsString = "UNBOX";
+let currentWordleNumber = 646
  //<---------Change wordle number here!
 
 
