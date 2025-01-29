@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SKEET";
-let currentWordleNumber = 647
+let wordAsString = "LABOR";
+let currentWordleNumber = 648
  //<---------Change wordle number here!
 
 
