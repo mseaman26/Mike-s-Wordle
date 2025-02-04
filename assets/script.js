@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "CUPID";
-let currentWordleNumber = 649
+let wordAsString = "CYCLE";
+let currentWordleNumber = 650
  //<---------Change wordle number here!
 
 
