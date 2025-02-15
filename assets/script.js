@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "PRESS";
-let currentWordleNumber = 651
+let wordAsString = "PROSE";
+let currentWordleNumber = 652
  //<---------Change wordle number here!
 
 
