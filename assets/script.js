@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "FALSE";
-let currentWordleNumber = 653
+let wordAsString = "KAZOO";
+let currentWordleNumber = 654
  //<---------Change wordle number here!
 
 
