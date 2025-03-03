@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "PAUSE";
-let currentWordleNumber = 655
+let wordAsString = "PIECE";
+let currentWordleNumber = 656
  //<---------Change wordle number here!
 
 
