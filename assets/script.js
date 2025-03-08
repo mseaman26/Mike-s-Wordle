@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "SOBER";
-let currentWordleNumber = 658
+let wordAsString = "BOWEL";
+let currentWordleNumber = 659
  //<---------Change wordle number here!
 
 
