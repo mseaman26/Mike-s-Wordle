@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "PRUNE";
-let currentWordleNumber = 660
+let wordAsString = "SCOFF";
+let currentWordleNumber = 661
  //<---------Change wordle number here!
 
 
