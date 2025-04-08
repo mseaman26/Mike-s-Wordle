@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "STYLE";
-let currentWordleNumber = 663
+let wordAsString = "NAIVE";
+let currentWordleNumber = 664
  //<---------Change wordle number here!
 
 
