@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "BINGE";
-let currentWordleNumber = 665
+let wordAsString = "HOTEL";
+let currentWordleNumber = 666
  //<---------Change wordle number here!
 
 
