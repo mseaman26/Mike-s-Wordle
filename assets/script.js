@@ -3,7 +3,7 @@ $(document).ready(function(){
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
 let wordAsString = "DEVIL";
-let currentWordleNumber = 667
+let currentWordleNumber = 668
  //<---------Change wordle number here!
 
 
