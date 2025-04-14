@@ -3,7 +3,7 @@ $(document).ready(function(){
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
 let wordAsString = "HOTEL";
-let currentWordleNumber = 666
+let currentWordleNumber = 667
  //<---------Change wordle number here!
 
 
