@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "DEVIL";
+let wordAsString = "FOCUS";
 let currentWordleNumber = 668
  //<---------Change wordle number here!
 
