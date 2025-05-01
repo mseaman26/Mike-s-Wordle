@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "FOCUS";
-let currentWordleNumber = 668
+let wordAsString = "DEBIT";
+let currentWordleNumber = 669
  //<---------Change wordle number here!
 
 
