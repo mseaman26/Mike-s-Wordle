@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "ULTRA";
-let currentWordleNumber = 670
+let wordAsString = "USUAL";
+let currentWordleNumber = 671
  //<---------Change wordle number here!
 
 
