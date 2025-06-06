@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
 let possibleWordGuessesArray = possibleWordGuessesUnparesed.split(" ")
-let wordAsString = "QUITE";
-let currentWordleNumber = 673
+let wordAsString = "DWARF";
+let currentWordleNumber = 674
  //<---------Change wordle number here!
 
 
